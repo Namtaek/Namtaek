@@ -24,7 +24,7 @@
 
 #### Undergraduate
 
-- Statistical Mathematics 1&2
+- Mathematical Statistics 1&2
 - Regression Analysis 
 - Statistical Computing
 - Experimental Design
