@@ -1,6 +1,6 @@
 <div align=center>
   
-<i> "TBA..." </i>
+<i> "..." </i>
 
 </div>
 
@@ -14,7 +14,7 @@
 ## Namtaek Kwon 
 
 #### Hi there. 👋
-#### I love Statistics, Bayesian Statistics & Causal Inference.✍️
+#### Interested in Statistics, wanna major Bayesian Statistics & Causal Inference✍️
 
 ### Education
 
