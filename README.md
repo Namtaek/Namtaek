@@ -50,7 +50,7 @@ For this semester...
 - Mathematical statistics 1
 - Regression Analysis 
 - Experimental Design
-- Bayesian Statistics
+- Statistical Computing
 
 ### Skills
 
