@@ -18,36 +18,35 @@
 
 ### Education
 
-- ```2015-2021``` Bachelor of Statistics, Sungkyunkwan University.
+- ```2015.03-2021.08``` Bachelor of Statistics, Sungkyunkwan University.
 
 #### External activities
 
 - ```2020.03-2021.06``` Statistical Analysis group P-SAT (Dept. of Statistics in Sungkyunkwan)
-  - Time Series Analysis Team / Regression Analysis Team Leader / Group Manager
+  - Time Series Analysis Team Member / Regression Analysis Team Leader / Group Manager
 
 ### COURSEWORK
 
 #### Undergraduate
 
 - Mathematics for Statistics / Matrix Algebra / Principles of Statistics
-- Mathematical Statistics 1&2
-- Regression Analysis 
-- Statistical Computing
-- Experimental Design
+- Mathematical Statistics / Statistical Inference
+- Regression Analysis / Experimental Design
+- Statistical Programming (R) / Statistical Computing (R)
 - Statistical Data Mining
 - Multivariate Statistical Analysis
 - Bayesian Statistics
 - Financial Statistics
 - Statistics & Data Science (Spectral Clustering, Non-convex penalty, Quantile reg)
 - Machine Learning & Deep Learning
-- Stochastic Process
 - Statistical Modeling & ML Practice (LR for non-iid, Dimension Reduction, Filtering & Variable Selection)
+- Stochastic Process
 
 #### Graduate
 
 For this semester...
 
-- Mathematical statistics 1
+- Mathematical statistics 
 - Regression Analysis 
 - Experimental Design
 - Statistical Computing
