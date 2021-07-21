@@ -18,7 +18,7 @@
 
 ### Education
 
-- ```2015.03-2021.08``` Bachelor of Statistics, Sungkyunkwan University.
+- ```2015.03-2021.08``` B.E. in Statistics, Sungkyunkwan University.
 
 #### External activities
 
@@ -44,23 +44,15 @@
 
 #### Graduate
 
-For this semester...
-
 - Mathematical statistics 
 - Regression Analysis 
 - Experimental Design
 - Statistical Computing
 
-### Skills
-
-#### Technical
-
-- ...
-
 #### Coding
 
-- R (proficient)
-- Python (elementary)
+- R
+- Python 
 
 ### Scholarship and Awards
 
