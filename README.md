@@ -19,6 +19,7 @@
 ### Education
 
 - ```2015.03-2021.08``` B.E. in Statistics, Sungkyunkwan University.
+- ```2021.09-``` M.S. Students in Statistics, Sungkyunkwan University.
 
 #### External activities
 
@@ -29,7 +30,6 @@
 
 #### Undergraduate
 
-- Mathematics for Statistics / Matrix Algebra / Principles of Statistics
 - Mathematical Statistics / Statistical Inference
 - Regression Analysis / Experimental Design
 - Statistical Programming (R) / Statistical Computing (R)
@@ -46,8 +46,11 @@
 
 - Mathematical statistics 
 - Regression Analysis 
-- Experimental Design
+- Experimental Design (Experimental & Quasi-Experimental Design for Causal Inference)
 - Statistical Computing
+- Statistical Inference
+- Categorical Data Analysis
+- Modern Statistical Methods (High-Dimensional Bayesian Models)
 
 #### Coding
 
@@ -56,6 +59,7 @@
 
 ### Scholarship and Awards
 
+- Student Success Scholarship, SKKU, Korea (2021 Spring)
 - Scholarship for Bachelor & Master’s Accelerated Degree Program (full tuition), SKKU, Korea (2021 Spring)
 - Mayor Award of Seoul, Seoul BigData Campus Competition (2020.11)
 - Scholarship for Bachelor & Master’s Accelerated Degree Program (full tuition), SKKU, Korea (2020 Fall)
