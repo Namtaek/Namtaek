@@ -11,13 +11,14 @@
 ## Namtaek Kwon 
 
 #### Hi there. 👋
-#### Interested in Statistics, wanna major Causal Inference & Bayesian Statistics✍️
+#### Interested in Bayesian statistics & causal infernce. ✍️
+#### My research interest is "the confounder selection for causal inference via Bayesian nonparametric". 
 
 
 ### Education
 
-- ```2015.03-2021.08``` B.E. in Statistics, Sungkyunkwan University.
-- ```2021.09-present``` M.S. Students in Statistics, Sungkyunkwan University.
+- ```2015.03-2021.08``` Bachelor in Statistics, Sungkyunkwan University.
+- ```2021.09-present``` Master Students in Statistics, Sungkyunkwan University.
 
 #### External activities
 
