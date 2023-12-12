@@ -8,7 +8,7 @@
 
 </div>
 
-## Namtaek Kwon 
+## Namtaek Kwon - Netmarble Data Scientist
 
 Hi there. 👋
 
